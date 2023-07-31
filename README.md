@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hey! 👋
 
-<!--
-**finziamit/finziamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amit Finzi Computer Science graduate, a passionate software developer who loves to code and explore new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Software Engineer | Full-Stack Developer
+- 💻 Tech Enthusiast | Lifelong Learner
+
+## Tech Stack
+
+🚀 Technologies & Tools 🛠️
+
+Languages: 
+- Python 🐍
+- Java ☕
+- C# ©️
+- C/C++ 🧑‍💻
+- HTML 🌐
+- CSS 🎨
+- React ⚛️
+- TypeScript 📘
+
+Version Control:
+- Git 🌱
+
+
+## GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=finziamit&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## Projects
+
+Here are some of my noteworthy projects:
+
+- 🌐 [Smarticle ](https://github.com/finziamit/Smarticles) - Knowledge sharing social network developed using Python and Django
+- 📚 [Tel Hai Exams](https://github.com/finziamit/c-sharp-final-project) - Examination system developed using C# .NET
+- 🎮 [PyGame](https://github.com/finziamit/PyGame) - Games developed using PyGame
+
+## Reach Out
+
+📫 Feel free to reach out to me via [email](mailto:finzi.amit@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amit-finzi-584464236/).
+
+Let's code and make the world a better place together! 😄
