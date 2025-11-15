@@ -4,7 +4,7 @@ I'm Amit Finzi Computer Science graduate, a passionate software developer who lo
 
 ## About Me
 
-- 🚀 Software Engineer | Full-Stack Developer
+- 🚀 Software Engineer
 - 💻 Tech Enthusiast | Lifelong Learner
 
 ## Tech Stack
@@ -13,13 +13,9 @@ I'm Amit Finzi Computer Science graduate, a passionate software developer who lo
 
 Languages: 
 - Python 🐍
+- C/C++ 🧑‍💻
 - Java ☕
 - C# ©️
-- C/C++ 🧑‍💻
-- HTML 🌐
-- CSS 🎨
-- React ⚛️
-- TypeScript 📘
 
 Version Control:
 - Git 🌱
